@@ -1,7 +1,7 @@
-xvfb
-x11-xkb-utils
 xorg 
+x11-xkb-utils
 openbox
+xvfb
 xfonts-100dpi
 xfonts-75dpi
 xfonts-scalable
