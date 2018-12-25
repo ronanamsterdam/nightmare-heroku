@@ -1,2 +1,2 @@
-export DISPLAY=':99.0'
-Xvfb :99 -screen 0 1024x768x24 > /dev/null 2>&1 &
+Xvfb -ac -screen scrn 1280x2000x24 :9.0 &
+export DISPLAY=:9.0
